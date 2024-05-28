@@ -3,14 +3,21 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "fairLottery - Demo site",
-  description: "fairLottery: A lottery protocol that proves the probabilities without sharing other information.",
+  title: "FairLottery - Demo site",
+  description: "FairLottery: A lottery protocol that proves the probabilities without sharing other information.",
   openGraph: {
-    title: "fairLottery - Demo site",
-    description: "fairLottery: A lottery protocol that proves the probabilities without sharing other information.",
+    title: "FairLottery - Demo site",
+    description: "FairLottery: A lottery protocol that proves the probabilities without sharing other information.",
     url: "fair-lottery.jikuai.dev",
     type: "website",
-    image: "fair-lottery.jikuai.dev/FairLottery.png"
+    siteName: "FairLottery",
+    images: [
+      {
+        url: "fair-lottery.jikuai.dev/FairLottery.png",
+        width: 500,
+        height: 500
+      }
+    ]
   }
 };
 
