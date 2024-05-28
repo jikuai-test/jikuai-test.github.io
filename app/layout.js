@@ -13,7 +13,7 @@ export const metadata = {
     siteName: "FairLottery",
     images: [
       {
-        url: "fair-lottery.jikuai.dev/FairLottery.png",
+        url: "https://fair-lottery.jikuai.dev/FairLottery.png",
         width: 500,
         height: 500
       }
