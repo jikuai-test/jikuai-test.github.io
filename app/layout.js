@@ -8,9 +8,9 @@ export const metadata = {
   openGraph: {
     title: "fairLottery - Demo site",
     description: "fairLottery: A lottery protocol that proves the probabilities without sharing other information.",
-    url: "fair-lottery.jikuai.codes",
+    url: "fair-lottery.jikuai.dev",
     type: "website",
-    image: "fair-lottery.jikuai.codes/FairLottery.png"
+    image: "fair-lottery.jikuai.dev/FairLottery.png"
   }
 };
 
