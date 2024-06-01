@@ -9,6 +9,7 @@ export default function Home() {
       }}>
         <h1>
           你有認真聽前面組別的報告嗎 :)
+          <br />
         </h1>
         <img src="/demo.gif" alt="Demo video" style={{
           top: "50vh"
