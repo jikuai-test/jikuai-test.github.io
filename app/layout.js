@@ -4,10 +4,10 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "FairLottery - Demo site",
-  description: "FairLottery: A lottery protocol that proves the probabilities without sharing other information.",
+  description: "FairLottery: A lottery protocol that proves the probabilities with zero knowledge.",
   openGraph: {
     title: "FairLottery - Demo site",
-    description: "FairLottery: A lottery protocol that proves the probabilities without sharing other information.",
+    description: "FairLottery: A lottery protocol that proves the probabilities with zero knowledge.",
     url: "fair-lottery.jikuai.dev",
     type: "website",
     siteName: "FairLottery",
